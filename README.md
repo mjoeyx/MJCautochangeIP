@@ -23,11 +23,13 @@ git clone https://github.com/mjoeyx/MJCautochangeIP.git
 
 ```bash
 cd MJCautochangeIP-main
+```
 
 3. **Jalankan install.sh script untuk set up MJCautochangeIP**:
 ```bash
 sudo bash install.sh
 ```
+
 Pilih `y` Untuk Install
 
 ## Penggunakaan
