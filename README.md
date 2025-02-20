@@ -22,7 +22,7 @@ git clone https://github.com/mjoeyx/MJCautochangeIP.git
 2. **Buka Folder MJCautochangeIP-main**
 ```bash
 cd MJCautochangeIP-main
-
+```
 3. **Jalankan install.sh script untuk set up MJCautochangeIP**:
 ```bash
 sudo bash install.sh
