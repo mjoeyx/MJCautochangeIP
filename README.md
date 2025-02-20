@@ -1,6 +1,6 @@
 
 ## MJCautochangeIP
- is a strong tool for ethical hackers. Membantu Anda tetap pribadi/private dan anonim saat online dengan menggunakan jaringan Tor. Alat ini secara otomatis mengubah alamat IP Anda, menyulitkan siapa pun untuk melacak aktivitas online Anda
+Tool ini Membantu Anda tetap pribadi/private dan anonim saat online dengan menggunakan jaringan Tor. Alat ini secara otomatis mengubah alamat IP Anda, menyulitkan siapa pun untuk melacak aktivitas online Anda
 
 ## Fitur
 - Otomatis menginstall dependensi yang diperlukan (`Tor`, `curl`, `jq`).
